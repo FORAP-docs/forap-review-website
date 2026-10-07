@@ -6,6 +6,6 @@ Researcher names, email addresses, original-site metadata, and analytics are omi
 
 For a local preview, run `python3 -m http.server 8000` in this folder and open `http://localhost:8000`.
 
-The original CSS, JavaScript, video, captions, and project links are unchanged. External interface libraries and fonts require an internet connection.
+The original CSS, JavaScript, video, captions, and project-link destinations are unchanged. Project materials open in the same tab to work with the anonymous host. External interface libraries and fonts require an internet connection.
 
 See `LICENSE`, `LICENSE-CONTENT.md`, and `THIRD-PARTY-NOTICES.md` for applicable notices.
